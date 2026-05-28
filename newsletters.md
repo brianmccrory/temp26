@@ -1,7 +1,7 @@
-# Japan newsletters
+# newsletters
 date: 2023-12-16
 
-I've been reading a few Substack newsletters related to Japan. 
+I've been reading a few newsletters related to Japan.
 Most or all of the content is free to read on the web, so you don't need to subscribe to the newsletters unless you want to.
 
 ## 1. Japan A to Z 
