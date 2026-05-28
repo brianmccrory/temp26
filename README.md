@@ -20,6 +20,7 @@
 - [usual sightseeing ideas part 1](sightseeing-ideas-part-1.md)
 - [temples shrines castles palaces](temples-shrines-castles-palaces.md)
 - [a lot of walking](walking.md)
+- [Visa and entry process](visa-entry-process.md)
 
 
-- [todo-notes](todo-notes.md)
+[Todo/notes](todo-notes.md)
